@@ -1,7 +1,7 @@
 <h2> ShootingGame-Project </h2>
 <p> 🕹️ 슈팅 게임<p>
 
-- HTML, CSS, JavaScript
+- HTML, JavaScript
 
 - 적용 기능
 
