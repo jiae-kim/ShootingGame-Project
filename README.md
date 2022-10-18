@@ -1,6 +1,10 @@
 <h2> ShootingGame-Project </h2>
 <p> 🕹️ 슈팅 게임<p>
 
+  ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/99962500/196479627-e86a8be4-a8ae-4beb-85b6-d3b1d1cc6f16.gif)
+  
+-------  
+
 - HTML, JavaScript
 
 - 적용 기능
@@ -18,6 +22,8 @@
   - 총알
 
     - spacebar 누를 시 총알 발사
+    
+    - 연속해서 총알 발사 가능
     
   - 적군
   
